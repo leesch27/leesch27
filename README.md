@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leesch27
 - 👀 I’m interested in computational chemistry, bioinformatics/cheminformatics, and structural biology
-- 🌱 I’m currently learning how to create easy-to-read jupyter notebooks for undergraduate students with a focus on biochemistry/bioinformatics subjects and concepts
+- 🌱 I’m currently learning how to create easy-to-use jupyter notebooks focusing on biochemistry/bioinformatics subjects and concepts
 - 📫 How to reach me: email me at kes6022@rit.edu
 
 <!---
